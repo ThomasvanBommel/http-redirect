@@ -6,6 +6,10 @@ This program will accept a insecure port (http) and a secure port (https) and re
 
 This program should be used as middleware for the express module.
 
+## TODO
+- [ ] accept ports as parameters
+- [ ] allow multiple port redirects
+
 ## Usage
 
 ```js
